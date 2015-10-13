@@ -1,2 +1,2 @@
-# recylce
+# recycle
 new repository
